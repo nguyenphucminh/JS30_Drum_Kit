@@ -1,2 +1,2 @@
-# JS30_Drum_Kit
-JavaScript30Day_ChallengeDay1
+# Project 1 from Wes Bos's Javascript 30 Course
+
